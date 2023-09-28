@@ -1,2 +1,2 @@
-# Temparature-convertor
-Temparature-Convertor
+# Temperature-converter
+Temperature-Converter
